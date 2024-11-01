@@ -245,8 +245,6 @@ export default {
 	border-radius: 8px;
 	margin-right: 8px;
 	flex-shrink: 0;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    background-color: white;
 }
 
 /* Description */

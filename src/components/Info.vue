@@ -4,8 +4,8 @@
 		<div class="resume-section">
 			<Card
 				type="std-hr"
-				mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/gdrivelogo.png?raw=true"
-				primary-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/image.png?raw=true"
+				mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/Gdrive.png?raw=true"
+				primary-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/Resume.png?raw=true"
 				heading="Saifuddin Saifee Resume"
 				subheading="drive.google.com"
 				link="https://bit.ly/saifeecv"
@@ -14,12 +14,13 @@
 
 		<!-- Contact Section -->
 		<div class="contact-section">
-			<Card type="slim-hr" heading="+91 83087 97952" link="tel:+918308797952" />
+			<Card type="slim-hr" heading="+91 83087 97952" link="tel:+918308797952" mini-image="https://raw.githubusercontent.com/SaifuddinSaifee/ssaifee/a3a89336fc8e021be3ee36db2270a01f7baae01c/src/assets/call.svg"/>
 			<Card
 				type="slim-hr"
 				heading="saifeesaifuddinq@gmail.com"
         link="mailto:saifeesaifuddinq@gmail"
 				class="email-card"
+        mini-image="https://raw.githubusercontent.com/SaifuddinSaifee/ssaifee/a3a89336fc8e021be3ee36db2270a01f7baae01c/src/assets/mail.svg"
 			/>
 		</div>
 
@@ -27,9 +28,9 @@
 		<div class="location-section">
 			<Card
 				type="std-hr"
-        mini-image="/map-icon.png"
-				primary-image="/map-image.png"
-				heading="Dhule Maharashtra, India"
+        mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/maps-icon.png?raw=true"
+				primary-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/maps.png?raw=true"
+				heading="Dhule, Maharashtra, India"
 				subheading="maps.google.com"
         link="https://maps.app.goo.gl/drqdUQcC8CEjBzLA8"
 			/>
@@ -39,14 +40,14 @@
 		<div class="social-section">
 			<Card
 				type="sqr-m"
-				mini-image="/linkedin-icon.png"
+				mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/linkedin.png?raw=true"
 				heading="Saifuddin's LinkedIn"
 				subheading="linkedin.com"
 				link="https://www.linkedin.com/in/saifuddinsaifee/"
 			/>
 			<Card
 				type="sqr-m"
-				mini-image="/blog-icon.png"
+				mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/Notion.png?raw=true"
 				heading="Saifuddin blogs"
 				subheading="Saifuddins Content Writing Work"
 				link="https://bit.ly/saifeewrites"
@@ -58,7 +59,7 @@
 			<Card
 				type="std-hr"
 				mini-image="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-				primary-image="/github-activity.png"
+				primary-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/ghgrid.png?raw=true"
 				heading="Saifuddin Saifee"
         subheading="github.com"
 				link="https://github.com/Saifuddinsaifee"
@@ -81,14 +82,14 @@
 		<div class="social-media-section">
 			<Card
 				type="sqr-m"
-				mini-image="/youtube-icon.png"
+				mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/x-logo.png?raw=true"
 				heading="@SaifSaifee_dev"
 				subheading="x.com"
 				link="https://x.com/SaifSaifee_dev"
 			/>
 			<Card
 				type="sqr-m"
-				mini-image="/instagram-icon.png"
+				mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/insta-logo.png?raw=true"
 				heading="@saifsaifee._"
 				subheading="instagram.com"
 				link="#"
@@ -102,7 +103,7 @@ import Card from "./Card.vue";
 
 const articles = [
 	{ title: "All you need to know about DevOps", miniImage: "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2F78hs31fax49uwy6kbxyw.png", link: "https://dev.to/saifuddinsaifee/devops-simplified-for-beginners-5bdb"},
-	{ title: "Git and Version Control: A Beginner's Guide to Smarter Coding", miniImage: "/article.png", link: "https://saifsaifee.hashnode.dev/git-and-version-control-for-beginners"},
+	{ title: "Git and Version Control: A Beginner's Guide to Smarter Coding", miniImage: "https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/Hashnode.png?raw=true", link: "https://saifsaifee.hashnode.dev/git-and-version-control-for-beginners"},
 ];
 </script>
 
