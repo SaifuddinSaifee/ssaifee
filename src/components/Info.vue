@@ -28,7 +28,7 @@
 		<div class="location-section">
 			<Card
 				type="std-hr"
-        mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/maps-icon.png?raw=true"
+        mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/maps-logo.png?raw=true"
 				primary-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/maps.png?raw=true"
 				heading="Dhule, Maharashtra, India"
 				subheading="maps.google.com"
@@ -116,6 +116,8 @@ const articles = [
 	margin: 0 auto;
 	padding: 24px;
 	box-sizing: border-box;
+	min-width: 872px;
+	max-width: 872px;
 }
 
 /* Resume section - spans 2 columns */

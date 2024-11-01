@@ -239,8 +239,8 @@ export default {
 
 /* Mini image */
 .card__mini-image {
-	width: 40px;
-	height: 40px;
+	width: 36px;
+	height: 36px;
 	object-fit: cover;
 	border-radius: 8px;
 	margin-right: 8px;
