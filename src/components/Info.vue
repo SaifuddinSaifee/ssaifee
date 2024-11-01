@@ -111,7 +111,7 @@ const articles = [
 .profile-container {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
-	gap: 24px;
+	gap: 12px;
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 24px;
@@ -128,7 +128,7 @@ const articles = [
 	grid-column: span 2;
 	display: flex;
 	flex-direction: column;
-	gap: 12px;
+	gap: 12px
 }
 
 /* Location section - spans 2 columns */
@@ -140,7 +140,7 @@ const articles = [
 .social-section {
 	grid-column: span 2;
 	display: flex;
-	gap: 24px;
+	gap: 12px;
 }
 
 /* GitHub section - spans 2 columns */
@@ -153,14 +153,14 @@ const articles = [
 	grid-column: span 2;
 	display: flex;
 	flex-direction: column;
-	gap: 12px;
+	gap: 12px
 }
 
 /* Social media section - 2 square cards side by side */
 .social-media-section {
 	grid-column: span 2;
 	display: flex;
-	gap: 24px;
+	gap: 12px;
 }
 
 /* Email card with accent color */
@@ -213,7 +213,7 @@ const articles = [
 
 	.profile-container {
 		padding: 12px;
-		gap: 12px;
+		gap: 12px
 	}
 }
 </style>

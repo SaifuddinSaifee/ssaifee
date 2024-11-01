@@ -197,7 +197,7 @@ export default {
 	box-sizing: border-box;
 	text-decoration: none; /* Remove underline from links */
 	color: inherit; /* Inherit text color */
-    margin: 24px;
+    margin: 12px;
 }
 
 /* Link-specific styles */
