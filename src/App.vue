@@ -6,8 +6,8 @@ import Info from './components/Info.vue'
 <template>
   <div class="container">
     <div class="app">
-      <Bio class="section" msg="Bio section" />
-      <Info class="section" msg="Vite + Vue" />
+      <Bio class="bio section" msg="Bio section" />
+      <Info class="info section" msg="Vite + Vue" />
     </div>
   </div>
 </template>
@@ -27,7 +27,7 @@ import Info from './components/Info.vue'
   padding: 64px;
 }
 
-.app * {
-  /* border: 1px solid red; */
+.bio {
+  position: sticky;
 }
 </style>
