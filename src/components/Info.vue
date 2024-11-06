@@ -92,7 +92,7 @@
 				mini-image="https://github.com/SaifuddinSaifee/ssaifee/blob/main/src/assets/insta-logo.png?raw=true"
 				heading="@saifsaifee._"
 				subheading="instagram.com"
-				link="#"
+				link="https://www.instagram.com/saifsaifee._/"
 			/>
 		</div>
 	</div>
